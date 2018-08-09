@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	"github.com/cloudfoundry-community/go-cfenv"
-	"github.com/cloudnativego/cf-tools"
-	"github.com/cloudnativego/cfmgo"
+	"github.com/atjapan2015/cf-tools"
+	"github.com/atjapan2015/cfmgo"
 	"github.com/codegangsta/negroni"
 	"github.com/gorilla/mux"
 	"github.com/unrolled/render"

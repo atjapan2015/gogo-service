@@ -3,7 +3,7 @@ package service
 import (
 	"testing"
 
-	"github.com/cloudnativego/gogo-engine"
+	"github.com/atjapan2015/gogo-engine"
 )
 
 func TestAddMatchShowsUpInRepository(t *testing.T) {

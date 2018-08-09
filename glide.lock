@@ -3,13 +3,13 @@ updated: 2016-05-20T23:12:04.493880048-04:00
 imports:
 - name: github.com/cloudfoundry-community/go-cfenv
   version: 18fa650ff6b7b4f6bd8f8611408d1533eb54a918
-- name: github.com/cloudnativego/cf-tools
+- name: github.com/atjapan2015/cf-tools
   version: 3cd300eb2a0c0f4c95246cc1b8a9a390edfe1c75
-- name: github.com/cloudnativego/cfmgo
+- name: github.com/atjapan2015/cfmgo
   version: 22a91e5f27de8050525ff52884c55989cfdf9aff
   subpackages:
   - params
-- name: github.com/cloudnativego/gogo-engine
+- name: github.com/atjapan2015/gogo-engine
   version: 256cb157fb61886eada3c2ec613fbb4428f5ca3f
 - name: github.com/codegangsta/negroni
   version: aac393b02b969df303449ed8ae194a1f8f3b48d6

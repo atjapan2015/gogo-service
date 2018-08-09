@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/cloudnativego/cfmgo"
-	"github.com/cloudnativego/cfmgo/params"
-	"github.com/cloudnativego/gogo-engine"
+	"github.com/atjapan2015/cfmgo"
+	"github.com/atjapan2015/cfmgo/params"
+	"github.com/atjapan2015/gogo-engine"
 	"gopkg.in/mgo.v2/bson"
 )
 

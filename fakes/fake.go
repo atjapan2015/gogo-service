@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"strconv"
 
-	"github.com/cloudnativego/cfmgo"
+	"github.com/atjapan2015/cfmgo"
 	"gopkg.in/mgo.v2"
 )
 

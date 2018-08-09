@@ -3,9 +3,9 @@ package service
 import (
 	"testing"
 
-	"github.com/cloudnativego/cfmgo"
-	"github.com/cloudnativego/gogo-engine"
-	"github.com/cloudnativego/gogo-service/fakes"
+	"github.com/atjapan2015/cfmgo"
+	"github.com/atjapan2015/gogo-engine"
+	"github.com/atjapan2015/gogo-service/fakes"
 )
 
 var (
