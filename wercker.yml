@@ -14,7 +14,7 @@ build:
           cd $WERCKER_SOURCE_DIR
           go version
           go get -u github.com/Masterminds/glide
-          go get -u github.com/cloudnativego/cf-tools/vcapinate
+          go get -u github.com/atjapan2015/cf-tools/vcapinate
           export PATH=$WERCKER_SOURCE_DIR/bin:$PATH
           glide install
 
@@ -54,5 +54,5 @@ deploy:
        cmd: /pipeline/source/gogo-service
        port: "8080"
        tag: latest
-       repository: cloudnativego/gogo-service
+       repository: atjapan2015/gogo-service
        registry: https://registry.hub.docker.com
